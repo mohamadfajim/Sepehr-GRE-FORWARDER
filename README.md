@@ -15,7 +15,7 @@ Socat Forwarder
 
 HAProxy Forwarder
 
-    wget -O sepehr-haproxy.sh "https://raw.githubusercontent.com/ToolSeRF/Sepehr-GRE-FORWARDER/refs/heads/main/sepehr-haproxy.sh?$(date +%s)" && chmod +x sepehr-haproxy.sh && bash sepehr-haproxy.sh
+    wget -O sepehr-haproxy.sh "https://raw.githubusercontent.com/mohamadfajim/Sepehr-GRE-FORWARDER/refs/heads/main/sepehr-haproxy.sh?$(date +%s)" && chmod +x sepehr-haproxy.sh && bash sepehr-haproxy.sh
 
 ## 🧭 ساختار منو
 
